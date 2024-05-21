@@ -2,4 +2,4 @@
 ## APCSA - FDR HS 
 
 ### In this repository:
-  - My solutions to 2024 Free Respose Queestions
+  - My solutions to 2024 Free Response Queestions
