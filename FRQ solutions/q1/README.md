@@ -1,6 +1,7 @@
 
-# marking period 3 work
-## APCSA - FDR HS 
+# APCSA - FDR HS 
+## FRQ 1
 
 ### In this repository:
-  - My solutions to 2024 Free Response Queestions
+  - My solutions to free response 1 of ap csa exam.
+  - 
