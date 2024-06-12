@@ -3,5 +3,5 @@
 ## FRQ 1
 
 ### In this repository:
-  - My solutions to free response 1 of ap csa exam.
+  - My solution to free response 1 of ap csa exam.
   - 
